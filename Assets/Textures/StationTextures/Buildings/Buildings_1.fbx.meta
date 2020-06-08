@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: de305ab626351c044adf37421b2fc66c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Building.2
+    100002: //RootNode
+    100004: Plane
+    100006: Plane.008
+    100008: Plane.020
+    100010: Plane.1510
+    100012: Plane.1511
+    100014: Plane.1512
+    100016: Plane.1513
+    100018: Plane.1514
+    100020: Plane.1519
+    100022: Plane.1520
+    400000: Building.2
+    400002: //RootNode
+    400004: Plane
+    400006: Plane.008
+    400008: Plane.020
+    400010: Plane.1510
+    400012: Plane.1511
+    400014: Plane.1512
+    400016: Plane.1513
+    400018: Plane.1514
+    400020: Plane.1519
+    400022: Plane.1520
+    2100000: BuildingsWallsBricks
+    2100002: BuildingsWalls
+    2100004: BuildingsRoofs
+    2100006: BuildingBlack
+    2100008: Metal
+    2100010: Seamless_Lattice
+    2100012: Concrete
+    2100014: Plastic
+    2100016: Glass
+    2300000: Building.2
+    2300002: Plane
+    2300004: Plane.008
+    2300006: Plane.020
+    2300008: Plane.1510
+    2300010: Plane.1511
+    2300012: Plane.1512
+    2300014: Plane.1513
+    2300016: Plane.1514
+    2300018: Plane.1519
+    2300020: Plane.1520
+    3300000: Building.2
+    3300002: Plane
+    3300004: Plane.008
+    3300006: Plane.020
+    3300008: Plane.1510
+    3300010: Plane.1511
+    3300012: Plane.1512
+    3300014: Plane.1513
+    3300016: Plane.1514
+    3300018: Plane.1519
+    3300020: Plane.1520
+    4300000: Building.2
+    4300002: Plane.1519
+    4300004: Plane
+    4300006: Plane.008
+    4300008: Plane.020
+    4300010: Plane.1510
+    4300012: Plane.1511
+    4300014: Plane.1512
+    4300016: Plane.1513
+    4300018: Plane.1514
+    4300020: Plane.1520
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

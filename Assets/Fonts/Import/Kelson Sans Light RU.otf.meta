@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: e7346194a1cc3764898eab1b0437bf25
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Kelson Sans RU
+  fontNames:
+  - Kelson Sans RU
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2271262031cd7cd4c80a84a5bdf7ddbc, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
